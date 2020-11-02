@@ -19,7 +19,7 @@ Project split in 3 main notebooks and models.py file.
 <p align="center"> <img src="images/haar_cascade_ex.png" align="middle" alt="drawing" width="1600px"> </p> 
 
 ### Facial Keypoints
-<p align="center"> <img src="images/michelle_detected.png" align="middle" alt="drawing" width="1600px"> </p> 
+<p align="center"> <img src="images/michelle_detected.png" align="middle" alt="drawing" width="800px"> </p> 
 
 ## Instalation
 
