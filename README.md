@@ -45,10 +45,17 @@ Download via [Anaconda](https://www.anaconda.com/distribution/)
 ```
 conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
 ```
-6. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
-```
-pip install -r requirements.txt
+6. Install a few required pip packages,
 
+	opencv-python==3.2.0.6
+	matplotlib==2.1.1
+	pandas==0.22.0
+	numpy==1.12.1
+	pillow>6.2.0
+	scipy==1.0.0
+	torch>=0.4.0
+	torchvision>=0.2.0
+	
 
 ## Licence
 This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
