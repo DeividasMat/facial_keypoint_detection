@@ -11,7 +11,7 @@ Project split in 3 main notebooks and models.py file.
 2) Load and Visualize Data.ipynb -- Loading and Visualizing the Facial Keypoint Data
 3) Define the Network Architecture.ipynb -- Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints.
 4) Facial Keypoint Detection, Complete Pipeline.ipynb --Facial Keypoint Detection Using Haar Cascades and your Trained CNN.
-5) Fun with Keypoints.ipynb -- Fun expiriements with keypoints.
+5) Fun with Keypoints.ipynb -- Fun experiments with keypoints.
 
 ## Examples
 
