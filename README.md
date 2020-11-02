@@ -17,7 +17,7 @@ Project split in 3 main notebooks and models.py file.
 
 Haar Cascade
 
-![haar_cascade](https://github.com/DeividasMat/facial_keypoint_detection/images/haar_cascade_ex.png)
+![haar_cascade](https://github.com/DeividasMat/facial_keypoint_detection/tree/main/images/michelle_detected.png)
 
 ## Instalation
 
