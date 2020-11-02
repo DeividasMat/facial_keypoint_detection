@@ -1,2 +1,2 @@
-# facial_keypoint_detection
+# Facial Keypoint Detection
 Facial Keypoints Detection
