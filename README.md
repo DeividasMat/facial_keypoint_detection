@@ -17,8 +17,11 @@ Project split in 3 main notebooks and models.py file.
 
 Haar Cascade
 
-<p align="center"> <img src="images/Obamas.png" align="middle" alt="drawing" width="400px"> </p> 
+<p align="center"> <img src="images/haar_cascade_ex.png" align="middle" alt="drawing" width="400px"> </p> 
 
 ## Instalation
 
 
+
+## Licence
+This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
