@@ -26,6 +26,7 @@ Project split in 3 main notebooks and models.py file.
 1. Clone the repository
 	```
 	git clone https://github.com/DeividasMat/facial_keypoint_detection
+	```
   
 2. Create and activate Anaconda environment (Python 3.6).
 Download via [Anaconda](https://www.anaconda.com/distribution/)
