@@ -23,11 +23,11 @@ Project split in 3 main notebooks and models.py file.
 
 ## Instalation
 
-1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
+1. Clone the repository
 	```
 	git clone https://github.com/DeividasMat/facial_keypoint_detection
   
-2. Create (and activate) a new Anaconda environment (Python 3.6).
+2. Create and activate Anaconda environment (Python 3.6).
 Download via [Anaconda](https://www.anaconda.com/distribution/)
 
 	- __Linux__ or __Mac__: 
@@ -41,11 +41,11 @@ Download via [Anaconda](https://www.anaconda.com/distribution/)
 	activate cv-nd
 	```
 
-3. Install PyTorch and torchvision; this should install the latest version of PyTorch;
+3. Install PyTorch and torchvision
 ```
 conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
 ```
-6. Install a few required pip packages,
+6. Install a few required using pip or conda
 
 	- opencv-python==3.2.0.6
 	- matplotlib==2.1.1
