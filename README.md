@@ -17,7 +17,7 @@ Project split in 3 main notebooks and models.py file.
 
 Haar Cascade
 
-<p align="center"> <img src="images/haar_cascade_ex.png" align="middle" alt="drawing" width="400px"> </p> 
+<p align="center"> <img src="images/haar_cascade_ex.png" align="middle" alt="drawing" width="800px"> </p> 
 
 ## Instalation
 
