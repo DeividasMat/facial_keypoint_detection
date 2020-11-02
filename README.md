@@ -14,7 +14,8 @@ Project split in 3 main notebooks and models.py file.
 5) Fun with Keypoints.ipynb -- Fun expiriements with keypoints.
 
 ## Examples
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Haar Cascade
+![haar_cascade](https://github.com/DeividasMat/facial_keypoint_detection/tree/main/images/haar_cascade_ex.png)
 
 ## Instalation
 
