@@ -15,7 +15,7 @@ Project split in 3 main notebooks and models.py file.
 
 ## Examples
 
-
+![Screenshot](haar_cascade_ex.png)
 
 
 ## Instalation
