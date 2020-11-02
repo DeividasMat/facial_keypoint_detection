@@ -14,9 +14,7 @@ Project split in 3 main notebooks and models.py file.
 5) Fun with Keypoints.ipynb -- Fun expiriements with keypoints.
 
 ## Examples
-
-![Screenshot](haar_cascade_ex.png)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Instalation
 
