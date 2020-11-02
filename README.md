@@ -1,7 +1,7 @@
 # Facial Keypoint Detection
 
 ## Overview
-This project are part of Computer vision Nanodergee via Udacity. Facial keypoints  specify the areas of the nose, eyes, mouth, etc on the face, classified by 68 key points. Using CNN, pytorch and opencv build a facial keypoint detection system that takes any images with humna faces and detect main 68 keypoints.
+This project are part of Computer vision Nanodergee via Udacity. Facial keypoints  specify the areas of the nose, eyes, mouth, etc on the face, classified by 68 key points. Using CNN, pytorch and opencv build a facial keypoint detection system that takes any images with human faces and detect main 68 keypoints.
 
 ## Structure
 
