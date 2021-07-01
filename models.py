@@ -10,7 +10,7 @@ import torch.nn.init as I
 class Net(nn.Module):
 
     def __init__(self):
-        super(Net, self).__init__()
+        #super(Net, self).__init__()
         
         ## TODO: Define all the layers of this CNN, the only requirements are:
         ## 1. This network takes in a square (same width and height), grayscale image as input
